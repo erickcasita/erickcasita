@@ -2,11 +2,11 @@
 
 ```python
     developer = {
-        fullname = "Erick",
+        Fullname = "Erick",
         Studies = "Computer Engineer with a Master's Degree in Information and Communication Technologies"
-        skills = ["Python", "C#", "Javascript"],
-        technologies = ["MSQL", "MySQL","MongoDB"],
-        interests = "Exploring new technologies and continuous learning",
+        Skills = ["Python", "C#", "Javascript"],
+        Technologies = ["MSQL", "MySQL","MongoDB"],
+        Interests = "Exploring new technologies and continuous learning",
     }
 
 ```
